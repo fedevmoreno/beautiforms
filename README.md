@@ -1,3 +1,7 @@
+<p align="center">
+  <img width=100px" src="hyperloop/img/favicon.png">
+</p>
+
 # Welcome to Beautiforms!
 
 ¡Hola! 👋
@@ -10,7 +14,7 @@ Siéntete libre de usar, modificar, adaptar, trocear e innovar en cada uno de la
 
 Son muy sencillos, utilizan únicamente HTML5 y CSS3, y están realizado de diferentes formas para que veas que hay muchísimas formas de hacer las cosas en programación. La que más se acomode a tu nivel o necesidad, será la ideal para ti en este momento.
 
-De momento, existen 2 **Beautiforms**:
+De momento, existen solo los siguientes **Beautiforms**:
 - Hyperloop
 Haciéndole honor al proyecto [Hyperloop](https://virginhyperloop.com/), mostrando su rapidez y aerodinámica, verás un bonito efecto al seleccionar cada campo del formulario.
 - Let Me Know
