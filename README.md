@@ -2,9 +2,11 @@
   <img width=100px" src="hyperloop/img/favicon.png">
 </p>
 
-# Welcome to Beautiforms!
+<h1 align="center">
+  Welcome to Beautiforms! 👋
+</h1>
 
-¡Hola! 👋
+¡Hola!
 
 Si has llegado hasta aquí para encontrar algunos estilos de formularios agradables y mucho más atractivos para tu vista que los que HTML5 nos ofrece por defecto, has llegado al lugar indicado.
 
