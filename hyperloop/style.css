@@ -17,6 +17,7 @@ body{
 
 .logo{
     display: block;
+	padding-bottom: 60px;
     margin: auto;
     width: 30%;
     transform: translateY(30px);
@@ -109,3 +110,14 @@ body{
       color: rgb(243, 243, 243);
       border: 2px solid rgb(13, 146, 187);
  }
+
+.beautiforms{
+	position: absolute;
+	font-family: 'Crimson Pro', serif;
+    bottom: 20px;
+}
+
+.font-beautiforms{
+	font-family: 'Crimson Pro', serif;
+	font-size: 1.3rem;
+}
